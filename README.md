@@ -1,1 +1,2 @@
-# first-minecraft-java
+# first-minecraft-java<
+Mit første Minecraft Java Plugin
